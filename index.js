@@ -6,7 +6,7 @@ document.getElementById("button").addEventListener("click", () =>{
     if(x.includes("http://")){
         var t = document.querySelector('.abd');
         
-        // document.querySelector('img').src = "Chala-Ja-Bsdk-meme-template-608x608.jpg";
+       
         // t.classList.add('fade-in-image') ;
         return;
     }
